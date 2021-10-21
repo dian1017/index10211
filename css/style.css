@@ -1,0 +1,21 @@
+#nav{
+	
+    margin: 0px 0px 0px 0px  ; 
+    padding:0px 0px 0px 0px ;
+    text-align: right;
+    font-size:15px;
+    
+    list-style-type: none;
+}
+#nav li {
+    display: inline-block ;
+
+    margin: 0px 50px 0px 0px  ;
+}
+
+#nav a {
+    text-decoration: none;
+    
+    color: #ffffff;
+    font-size: 1.1em;
+}
